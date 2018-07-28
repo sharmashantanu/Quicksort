@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488291514 source:d:\other docs\4th semester\algo lab practicals\quicksort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
